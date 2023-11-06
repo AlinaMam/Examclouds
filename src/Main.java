@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SortedArray {
+public class Main {
     public static void main(String[] args) {
         int[] nums = {4, 3, 8, 5, 21, 13};
 
